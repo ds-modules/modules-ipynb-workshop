@@ -1,5 +1,5 @@
 # modules-ipynb
-Workshop for the UC Berkeley Data Science Modules program, covering common Jupyter notebook packages and styling used to make modules.
+Workshop for the UC Berkeley Data Science Modules program (2019-2021), covering common Jupyter notebook packages and styling used to make modules. Materials in this repository may now be outdated.
 
 UC Berkeley Modules developers- go to exercises/nbgitpuller.md to get started.
 
